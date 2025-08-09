@@ -31,7 +31,12 @@ The proposed movie recommendation system using machine learning is based on the 
 5. Model Evaluation: Evaluate the performance of the recommendation system using metrics such as precision, recall, F1-score, cross- validation techniques can be used to ensure robustness.
 6. Deployment : Once the model is evaluated, we deploy it in production environment for that we use streamlit function of python. It involves the integration of files into a web application
 
+## API Call & Integretion with Stremlit
+- For fetching the poster of each movies recommended, I used the OMDb API which open source.
+- OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=5abf82e6, this is my API used for this project.
+
 ## Results
+- Result is shown on the Localhost platform
 <img width="1020" height="757" alt="Screenshot 2025-08-09 130254" src="https://github.com/user-attachments/assets/278c1e37-0931-4adc-8495-e67e2635bf25" />
 <img width="955" height="723" alt="Screenshot 2025-08-09 130526" src="https://github.com/user-attachments/assets/070ce989-0454-45a1-aa66-3f94fa950315" />
 
